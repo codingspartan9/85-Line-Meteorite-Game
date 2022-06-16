@@ -1,0 +1,7 @@
+Start: 363
+White Space Removal: 262
+Optimizing Variables: 188
+Optimizing Functions: 154
+Optimizing if statements: 142
+Optimizing for loops and other stuff: 111
+Final Optimizations without using one file: 80
